@@ -1,0 +1,20 @@
+.menu-left{
+    background-color:black;
+    min-height: 100vh;
+    min-width: 250px !important;
+}
+
+.columns{
+    /* padding-top:0px; */
+    margin-top:0px;
+}
+
+.section {
+    padding: 2rem 1.5rem;
+}
+
+.fixed{
+    position:fixed;
+    width:inherit;
+}
+
